@@ -3,13 +3,18 @@ A simple Angular project from a crash course for beginners
 
 ## Notes:
 
-### Initialize project:
+### Install Angular CLI:
+
 - Install Angular CLI:  `npm install @angular/cli`
+
+
+### Initialize project:
+
 - Create new project:   `ng new <project-name> --style=scss --routing`
 - Start dev server:     `ng serve -o`
 
 
-### Creating parts:
+### Creating parts in the project:
 
 - Create component:      `ng generate component <name>`
 - Create service:        `ng generate service <name>`
