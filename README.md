@@ -3,9 +3,10 @@ A simple Angular project from a crash course for beginners
 
 Notes:
 
-- Start dev server: ng serve -o
-- Create component: ng generate component <name>
-- Create service:   ng generate service <name>
+- Start dev server:      ng serve -o
+- Create component:      ng generate component <name>
+- Create service:        ng generate service <name>
+- Install animation lib: npm install @angular/animations@latest --save
 
 
 Free Public API:
