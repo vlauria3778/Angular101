@@ -10,7 +10,7 @@ Notes:
 
 Free Public API:
 
-- Users fake json data soure: https://jsonplaceholder.typicode.com/users
+- Fake json data soure for API: https://jsonplaceholder.typicode.com
 
 
 References: 
