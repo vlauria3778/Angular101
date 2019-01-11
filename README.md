@@ -4,16 +4,16 @@ A simple Angular project from a crash course for beginners
 ## Notes:
 
 ### Initialize project:
-- Install angular:       ```npm install @angular/cli```
-- Create new project:    ``ng new project-name --style=scss --routing``
-- Start dev server:      `ng serve -o`
+- Install angular:      `npm install @angular/cli`
+- Create new project:   `ng new <project-name> --style=scss --routing`
+- Start dev server:     `ng serve -o`
 
 
 ### Creating parts:
 
-- Create component:      ng generate component name
-- Create service:        ng generate service name
-- Install animation lib: npm install @angular/animations@latest --save
+- Create component:      `ng generate component <name>`
+- Create service:        `ng generate service <name>`
+- Install animation lib: `npm install @angular/animations@latest --save`
 
 
 ## Free Public API:
