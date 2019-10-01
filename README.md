@@ -30,6 +30,10 @@ A simple Angular project from a crash course for beginners
 - Fake json data soure for API: https://jsonplaceholder.typicode.com
 
 
+## User generator engine:
+
+- Random user generator for profile pictures: https://randomuser.me/
+
 ## References: 
 
 - Course: https://www.youtube.com/watch?v=z4JUm0Bq9AM
