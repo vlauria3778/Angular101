@@ -40,3 +40,4 @@ A simple Angular project from a crash course for beginners
 - Material IO: https://material.io/
 - RxJS: https://www.youtube.com/watch?v=PhggNGsSQyg
 
+- Other course: https://www.youtube.com/watch?v=Fdf5aTYRW0E

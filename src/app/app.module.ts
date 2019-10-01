@@ -10,6 +10,7 @@ import { DetailsComponent } from './details/details.component';
 
 import { HttpClientModule } from '@angular/common/http';
 import { AboutComponent } from './about/about.component';
+import { TopbarComponent } from './topbar/topbar.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { AboutComponent } from './about/about.component';
     PostsComponent,
     UsersComponent,
     DetailsComponent,
-    AboutComponent
+    AboutComponent,
+    TopbarComponent
   ],
   imports: [
     BrowserModule,
