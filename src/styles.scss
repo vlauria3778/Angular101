@@ -9,8 +9,20 @@ body {
 
 #container {
     display: grid;
+    grid-template-rows: 60px auto;
     grid-template-columns: 70px auto;
+    grid-template-areas: 
+        "t t"
+        "s c";
     height: 100%;
+
+    .top-section {
+        grid-area: t;
+    }
+
+    .side-section {
+        grid-area: s;
+    }
 
     #content {
         padding: 30px 50px;
