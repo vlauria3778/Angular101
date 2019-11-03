@@ -1,3 +1,19 @@
 <nav>
-  topbar works!
+  <ul>
+    <li>
+      <a routerLink="" [class.activated]="currentUrl == '/'">
+        <i class="material-icons">supervised_user_circle</i> Users
+      </a>
+    </li>
+    <li>
+      <a routerLink="posts" [class.activated]="currentUrl == '/posts'">
+        <i class="material-icons">message</i> Messages
+      </a>
+    </li>
+    <li>
+      <a routerLink="about" [class.activated]="currentUrl == '/about'">
+        <i class="material-icons">info</i> About
+      </a>
+    </li>
+  </ul>
 </nav>
